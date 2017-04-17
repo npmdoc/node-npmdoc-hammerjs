@@ -1,9 +1,11 @@
 # api documentation for  [hammerjs (v2.0.8)](http://hammerjs.github.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-hammerjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hammerjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hammerjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hammerjs)
 #### A javascript library for multi-touch gestures
 
-[![NPM](https://nodei.co/npm/hammerjs.png?downloads=true)](https://www.npmjs.com/package/hammerjs)
+[![NPM](https://nodei.co/npm/hammerjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hammerjs)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-hammerjs/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-hammerjs_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hammerjs/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-hammerjs/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-hammerjs/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-hammerjs/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hammerjs/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-hammerjs/build/screenCapture.npmPackageListing.svg)
 
@@ -17,16 +19,14 @@
 
 {
     "author": {
-        "name": "Jorik Tangelder",
-        "email": "j.tangelder@gmail.com"
+        "name": "Jorik Tangelder"
     },
     "bugs": {
         "url": "https://github.com/hammerjs/hammer.js/issues"
     },
     "contributors": [
         {
-            "name": "Alexander Schmitz",
-            "email": "arschmitz@gmail.com"
+            "name": "Alexander Schmitz"
         },
         {
             "name": "Chris Thoburn"
@@ -68,17 +68,14 @@
     "main": "hammer.js",
     "maintainers": [
         {
-            "name": "arschmitz",
-            "email": "arschmitz@gmail.com"
+            "name": "arschmitz"
         },
         {
-            "name": "jtangelder",
-            "email": "j.tangelder@gmail.com"
+            "name": "jtangelder"
         }
     ],
     "name": "hammerjs",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/hammerjs/hammer.js.git"
@@ -90,16 +87,6 @@
     "version": "2.0.8"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module hammerjs](#apidoc.module.hammerjs)
-
-
-
-# <a name="apidoc.module.hammerjs"></a>[module hammerjs](#apidoc.module.hammerjs)
 
 
 
