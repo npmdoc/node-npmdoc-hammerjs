@@ -1,4 +1,7 @@
-# api documentation for  [hammerjs (v2.0.8)](http://hammerjs.github.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-hammerjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hammerjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hammerjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hammerjs)
+# npmdoc-hammerjs
+
+#### basic api documentation for  [hammerjs (v2.0.8)](http://hammerjs.github.io/)  [![npm package](https://img.shields.io/npm/v/npmdoc-hammerjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hammerjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hammerjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hammerjs)
+
 #### A javascript library for multi-touch gestures
 
 [![NPM](https://nodei.co/npm/hammerjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hammerjs)
@@ -84,7 +87,8 @@
         "test": "grunt test"
     },
     "title": "Hammer.JS",
-    "version": "2.0.8"
+    "version": "2.0.8",
+    "bin": {}
 }
 ```
 
